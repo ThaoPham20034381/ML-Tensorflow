@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Turn_left_6.jpg</filename>
+	<path>C:\Users\phamd\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Turn_left_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>89</width>
+		<height>94</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>13</ymin>
+			<xmax>74</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

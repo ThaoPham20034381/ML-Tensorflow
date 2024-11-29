@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>No_turn_left_12.jpg</filename>
+	<path>C:\Users\phamd\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\No_turn_left_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>122</width>
+		<height>103</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No_turn_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>17</ymin>
+			<xmax>95</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

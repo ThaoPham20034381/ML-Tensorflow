@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Stop_11.jpg</filename>
+	<path>C:\Users\phamd\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Stop_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>28</ymin>
+			<xmax>610</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

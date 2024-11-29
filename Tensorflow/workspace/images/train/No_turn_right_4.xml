@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>No_turn_right_4.jpg</filename>
+	<path>C:\Users\phamd\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\No_turn_right_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No_turn_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>26</ymin>
+			<xmax>217</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

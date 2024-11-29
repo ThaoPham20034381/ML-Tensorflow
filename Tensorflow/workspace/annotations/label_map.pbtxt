@@ -1,0 +1,24 @@
+item { 
+	name:'Go_straight'
+	id:1
+}
+item { 
+	name:'No_turn_left'
+	id:2
+}
+item { 
+	name:'No_turn_right'
+	id:3
+}
+item { 
+	name:'Stop'
+	id:4
+}
+item { 
+	name:'Turn_left'
+	id:5
+}
+item { 
+	name:'Turn_right'
+	id:6
+}
